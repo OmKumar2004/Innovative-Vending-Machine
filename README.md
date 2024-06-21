@@ -1,6 +1,7 @@
 # Innovative-Vending-Machine
 
 This is the code for a new innovative idea of Vending Machine.
+I have written this Verilog code on Vivado.
 
 My Youtube Video Link for better overview: https://youtu.be/Ni-z2QnxkHY?feature=shared
 
