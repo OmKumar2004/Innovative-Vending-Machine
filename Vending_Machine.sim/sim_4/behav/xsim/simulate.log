@@ -1,0 +1,9 @@
+Time resolution is 1 ps
+number1: 00000000000
+leftShift0: 000000000000000
+leftShift1: 000000000000000
+leftShift2: 000000000000000
+leftShift3: 000000000000000
+leftShift4: 000000000000000
+Result: 000000000000000, Carry Out: 0
+$finish called at time : 20 ns : File "E:/Temp/PROJECT_Vending_Machine_zip/PROJECT_Vending_Machine/Vending_Machine/Vending_Machine.srcs/sim_4/new/TB_MUL.v" Line 33

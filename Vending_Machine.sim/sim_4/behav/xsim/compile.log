@@ -1,0 +1,6 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/Temp/PROJECT_Vending_Machine_zip/PROJECT_Vending_Machine/Vending_Machine/Vending_Machine.srcs/sources_1/new/vendingMachine1.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module vendingMachine_1
+INFO: [VRFC 10-311] analyzing module multiply_by_5bit
+INFO: [VRFC 10-311] analyzing module carry_lookahead_Adder
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/Temp/PROJECT_Vending_Machine_zip/PROJECT_Vending_Machine/Vending_Machine/Vending_Machine.srcs/sim_4/new/TB_MUL.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module TB_MUL

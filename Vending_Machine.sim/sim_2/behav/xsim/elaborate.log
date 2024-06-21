@@ -1,0 +1,22 @@
+Vivado Simulator v2023.2
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved.
+Copyright 2022-2023 Advanced Micro Devices, Inc. All Rights Reserved.
+Running: E:/Xilinx/Vivado/2023.2/bin/unwrapped/win64.o/xelab.exe --incr --debug typical --relax --mt 2 -L xil_defaultlib -L unisims_ver -L unimacro_ver -L secureip --snapshot Testing_VM_behav xil_defaultlib.Testing_VM xil_defaultlib.glbl -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+Pass Through NonSizing Optimizer
+WARNING: [VRFC 10-3091] actual bit length 1 differs from formal bit length 3 for port 'outputDATA' [E:/.3 Digital Design/DD Project/DD Project/VENDING_MACHINE_PROJECT_COMPLETED/PROJECT_Vending_Machine/Vending_Machine/Vending_Machine.srcs/sim_2/new/Testbench_VM.v:43]
+Completed static elaboration
+Starting simulation data flow analysis
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling module xil_defaultlib.multiply_by_4bit
+Compiling module xil_defaultlib.BinaryToDecimal
+Compiling module xil_defaultlib.DecimalSplitter
+Compiling module xil_defaultlib.BCD_to_SevenSegment
+Compiling module xil_defaultlib.disp_add
+Compiling module xil_defaultlib.fivebitadd_display
+Compiling module xil_defaultlib.vendingMachine_1
+Compiling module xil_defaultlib.Testing_VM
+Compiling module xil_defaultlib.glbl
+Built simulation snapshot Testing_VM_behav
